@@ -954,6 +954,10 @@ header .container nav i {
   border: 1px solid var(--main-color);
   padding: 20px 20px;
 }
+.pricing .plans .plan .button a {
+  text-decoration: none;
+  color: black;
+}
 .pricing .contact {
   padding: 40px;
   text-align: center;
